@@ -1,0 +1,16 @@
+fastapi>=0.115.12
+uvicorn>=0.34.1
+streamlit>=1.44.1
+streamlit-chat>=0.0.2.2
+langchain>=0.1.4
+langchain-community>=0.0.14
+langchain-core>=0.1.16
+pydantic>=2.5.2
+langsmith>=0.0.87
+PyYAML>=5.3
+requests>=2.32.3
+python-multipart>=0.0.9
+faiss-cpu>=1.7.4
+pypdf>=4.1.0
+chromadb>=0.4.22
+langchain-ollama>=0.0.1
